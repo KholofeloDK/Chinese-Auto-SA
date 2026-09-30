@@ -1,0 +1,301 @@
+Date,Brand,Model,Province,Fuel_Type,Units,Price_ZAR,Revenue_ZAR
+2024-04-11,Geely,Coolray,Gauteng,Hybrid,2,434886,869772
+2023-12-10,BYD,Seal,Mpumalanga,EV,1,747221,747221
+2023-01-22,GWM,Haval H6,Gauteng,EV,2,533707,1067414
+2023-07-09,BYD,Dolphin,Gauteng,Hybrid,3,482747,1448241
+2023-01-21,BYD,Atto 3,Gauteng,EV,1,591394,591394
+2023-12-12,Geely,Emgrand,Free State,EV,1,373001,373001
+2024-01-23,BYD,Seal,Eastern Cape,EV,2,715920,1431840
+2023-09-27,BYD,Atto 3,Gauteng,Hybrid,2,645697,1291394
+2023-10-23,Chery,Tiggo 8,Gauteng,Petrol,2,531016,1062032
+2023-07-07,GWM,Haval Jolion,Gauteng,Hybrid,1,412185,412185
+2024-06-04,Chery,Tiggo 4,Gauteng,Petrol,3,408984,1226952
+2023-10-16,GWM,Tank 300,Limpopo,Hybrid,3,743986,2231958
+2023-02-02,Chery,Tiggo 7,Western Cape,Petrol,1,452662,452662
+2024-06-30,BYD,Seal,KwaZulu-Natal,Hybrid,2,743335,1486670
+2024-01-28,Geely,Coolray,Free State,Hybrid,2,386910,773820
+2023-08-29,Chery,Tiggo 7,Gauteng,Petrol,3,480015,1440045
+2023-06-09,BYD,Atto 3,Gauteng,EV,1,613827,613827
+2023-01-28,Chery,Tiggo 8,Gauteng,EV,2,594044,1188088
+2023-07-09,BYD,Atto 3,Mpumalanga,Hybrid,3,601976,1805928
+2024-03-31,BYD,Dolphin,KwaZulu-Natal,EV,3,489474,1468422
+2024-01-09,Geely,Emgrand,Gauteng,Petrol,3,396199,1188597
+2024-01-21,BYD,Dolphin,Western Cape,Hybrid,3,532733,1598199
+2023-08-08,Chery,Tiggo 4,Gauteng,Petrol,2,386736,773472
+2024-02-20,BYD,Dolphin,Gauteng,EV,2,530859,1061718
+2023-10-07,Chery,Tiggo 8,Limpopo,Petrol,2,555342,1110684
+2023-07-20,Geely,Emgrand,KwaZulu-Natal,Petrol,1,352671,352671
+2024-02-07,BYD,Atto 3,Eastern Cape,EV,3,582811,1748433
+2024-07-04,Chery,Tiggo 8,Gauteng,Petrol,1,538680,538680
+2023-05-31,BAIC,Beijing X55,Gauteng,Petrol,2,419384,838768
+2023-01-02,Chery,Tiggo 7,Gauteng,Hybrid,1,446371,446371
+2023-01-09,BAIC,Beijing X55,Free State,Petrol,3,409855,1229565
+2023-04-30,BYD,Seal,Eastern Cape,EV,2,686295,1372590
+2023-08-15,GWM,Tank 300,North West,Hybrid,2,783351,1566702
+2023-12-04,Geely,Coolray,KwaZulu-Natal,Petrol,2,426975,853950
+2024-02-02,Geely,Coolray,KwaZulu-Natal,Petrol,1,418467,418467
+2024-01-10,BYD,Seal,Eastern Cape,EV,2,720818,1441636
+2023-08-14,BYD,Atto 3,Free State,EV,3,599738,1799214
+2024-05-30,BYD,Dolphin,KwaZulu-Natal,Hybrid,3,520764,1562292
+2023-02-15,BYD,Dolphin,Gauteng,EV,1,498589,498589
+2023-10-29,GWM,Tank 300,Eastern Cape,EV,1,733420,733420
+2023-06-10,BAIC,Beijing X55,Free State,EV,1,445726,445726
+2023-10-15,BYD,Atto 3,KwaZulu-Natal,EV,3,646105,1938315
+2023-04-14,Chery,Tiggo 8,Gauteng,Petrol,1,575017,575017
+2024-06-21,Chery,Tiggo 8,Eastern Cape,Petrol,3,535801,1607403
+2024-02-04,GWM,Haval Jolion,KwaZulu-Natal,Petrol,2,402368,804736
+2023-02-20,BYD,Seal,Gauteng,Hybrid,3,690966,2072898
+2023-02-23,Geely,Coolray,Northern Cape,Hybrid,1,436661,436661
+2023-04-13,Geely,Coolray,Western Cape,Hybrid,1,383051,383051
+2023-04-30,BYD,Dolphin,Gauteng,EV,2,497019,994038
+2024-01-28,BYD,Atto 3,Gauteng,EV,3,631990,1895970
+2023-04-28,Chery,Tiggo 4,Gauteng,Petrol,2,406175,812350
+2024-08-03,Chery,Tiggo 4,Gauteng,EV,3,413222,1239666
+2023-03-27,Chery,Tiggo 8,Gauteng,Petrol,1,599042,599042
+2023-07-23,BYD,Atto 3,Gauteng,EV,1,640403,640403
+2023-01-23,BYD,Atto 3,Western Cape,Hybrid,1,639101,639101
+2024-03-17,BYD,Atto 3,KwaZulu-Natal,EV,3,603289,1809867
+2023-09-15,Geely,Emgrand,KwaZulu-Natal,Petrol,3,381991,1145973
+2024-03-02,BYD,Seal,Limpopo,Hybrid,1,691938,691938
+2024-07-09,BAIC,Beijing X55,Western Cape,EV,3,449449,1348347
+2023-03-31,BYD,Seal,Western Cape,EV,1,707350,707350
+2024-05-15,BYD,Atto 3,Eastern Cape,Hybrid,2,600358,1200716
+2024-01-29,BYD,Seal,Mpumalanga,Hybrid,1,740692,740692
+2023-04-06,Geely,Emgrand,Limpopo,EV,2,347955,695910
+2023-09-30,BYD,Atto 3,KwaZulu-Natal,EV,1,623286,623286
+2023-06-26,Geely,Emgrand,Limpopo,Petrol,3,396234,1188702
+2024-05-20,BYD,Dolphin,North West,EV,3,531934,1595802
+2024-04-28,Chery,Tiggo 4,Gauteng,Petrol,1,371130,371130
+2024-02-02,BAIC,Beijing X55,Limpopo,Petrol,2,401545,803090
+2024-08-10,Chery,Tiggo 4,Eastern Cape,Petrol,3,366801,1100403
+2023-06-17,Chery,Tiggo 7,KwaZulu-Natal,Petrol,2,431542,863084
+2024-05-10,BYD,Atto 3,North West,EV,3,634693,1904079
+2023-05-12,GWM,Haval H6,Limpopo,EV,1,517080,517080
+2024-06-14,BYD,Seal,Western Cape,EV,2,705289,1410578
+2023-12-27,BYD,Seal,Gauteng,EV,1,710355,710355
+2023-04-27,GWM,Tank 300,KwaZulu-Natal,EV,1,758016,758016
+2023-05-29,BAIC,Beijing X55,Gauteng,EV,3,414620,1243860
+2024-02-06,BYD,Dolphin,Northern Cape,EV,1,493843,493843
+2023-01-12,BYD,Dolphin,Eastern Cape,EV,3,548866,1646598
+2023-01-08,BAIC,Beijing X55,Gauteng,Petrol,1,403959,403959
+2024-05-16,BYD,Atto 3,Western Cape,Hybrid,3,584835,1754505
+2024-07-11,BYD,Dolphin,Gauteng,Hybrid,1,515547,515547
+2024-03-25,BYD,Atto 3,Free State,Hybrid,1,630990,630990
+2023-05-26,BYD,Atto 3,Mpumalanga,Hybrid,1,641813,641813
+2024-04-05,BAIC,Beijing X55,Gauteng,Petrol,1,384158,384158
+2024-03-12,BYD,Dolphin,Western Cape,Hybrid,1,509189,509189
+2023-03-19,Chery,Tiggo 4,Free State,Hybrid,1,373456,373456
+2023-12-14,BYD,Dolphin,Free State,Hybrid,2,517744,1035488
+2023-02-23,BYD,Seal,KwaZulu-Natal,EV,1,712049,712049
+2023-10-30,BAIC,Beijing X55,Gauteng,Hybrid,3,433871,1301613
+2024-02-26,Geely,Coolray,KwaZulu-Natal,Hybrid,3,433682,1301046
+2024-03-10,Chery,Tiggo 7,Western Cape,Petrol,3,436941,1310823
+2023-03-22,GWM,Haval Jolion,Western Cape,Hybrid,3,452329,1356987
+2024-06-29,BAIC,Beijing X55,Gauteng,EV,1,399963,399963
+2023-04-21,Chery,Tiggo 7,Gauteng,Petrol,3,442015,1326045
+2023-07-14,BYD,Seal,KwaZulu-Natal,EV,1,738243,738243
+2023-01-05,GWM,Tank 300,KwaZulu-Natal,Petrol,3,741314,2223942
+2023-02-15,BYD,Atto 3,Gauteng,Hybrid,2,596907,1193814
+2023-02-16,Geely,Emgrand,Gauteng,Petrol,1,353321,353321
+2023-01-26,Chery,Tiggo 8,Western Cape,Petrol,1,582796,582796
+2023-02-25,GWM,Haval Jolion,KwaZulu-Natal,EV,3,400302,1200906
+2024-06-09,Geely,Emgrand,Eastern Cape,Petrol,2,346748,693496
+2024-05-22,BYD,Seal,Eastern Cape,EV,3,735658,2206974
+2023-01-28,BYD,Atto 3,Western Cape,Hybrid,1,618518,618518
+2024-06-08,BYD,Dolphin,Mpumalanga,EV,1,484632,484632
+2024-04-14,Chery,Tiggo 7,Limpopo,Petrol,3,456734,1370202
+2023-10-09,Chery,Tiggo 4,KwaZulu-Natal,Petrol,2,420004,840008
+2023-10-16,Chery,Tiggo 8,Western Cape,EV,1,533812,533812
+2023-12-16,BYD,Dolphin,Gauteng,Hybrid,2,536138,1072276
+2023-01-06,BYD,Seal,Mpumalanga,Hybrid,3,684324,2052972
+2024-05-18,Geely,Emgrand,North West,Petrol,1,330117,330117
+2023-10-27,Chery,Tiggo 7,North West,Petrol,1,476514,476514
+2023-01-01,BYD,Atto 3,Gauteng,EV,3,616976,1850928
+2023-01-10,Chery,Tiggo 7,KwaZulu-Natal,Petrol,1,477362,477362
+2023-11-15,Chery,Tiggo 7,Northern Cape,Petrol,1,464387,464387
+2023-04-05,Chery,Tiggo 4,Gauteng,Petrol,3,386614,1159842
+2023-05-17,BAIC,Beijing X55,Mpumalanga,EV,3,447444,1342332
+2023-08-17,BYD,Seal,Gauteng,Hybrid,1,723925,723925
+2024-07-27,BYD,Atto 3,Limpopo,Hybrid,2,580077,1160154
+2024-06-09,BYD,Dolphin,KwaZulu-Natal,Hybrid,3,539207,1617621
+2023-05-25,GWM,Haval Jolion,Gauteng,Hybrid,1,418574,418574
+2023-07-17,GWM,Tank 300,KwaZulu-Natal,Petrol,3,734018,2202054
+2023-10-16,BAIC,Beijing X55,KwaZulu-Natal,Petrol,3,436819,1310457
+2024-02-15,Geely,Coolray,KwaZulu-Natal,EV,1,446656,446656
+2023-06-08,GWM,Haval H6,Gauteng,Hybrid,2,523872,1047744
+2023-06-06,Geely,Coolray,Gauteng,Petrol,1,400103,400103
+2023-05-14,BYD,Dolphin,Eastern Cape,EV,2,494153,988306
+2024-04-04,Geely,Coolray,Gauteng,Petrol,1,397368,397368
+2024-01-13,BYD,Dolphin,North West,Hybrid,1,532329,532329
+2024-02-11,BYD,Seal,Eastern Cape,EV,3,683797,2051391
+2024-07-20,BYD,Dolphin,Northern Cape,Hybrid,1,499256,499256
+2024-07-28,BYD,Seal,Western Cape,EV,1,719224,719224
+2023-12-13,Geely,Emgrand,North West,Petrol,2,338666,677332
+2024-05-15,Geely,Coolray,Gauteng,EV,2,447526,895052
+2024-04-13,GWM,Haval Jolion,Limpopo,Petrol,2,419097,838194
+2024-04-20,Geely,Coolray,Free State,Petrol,2,432853,865706
+2024-03-10,Geely,Emgrand,Western Cape,Petrol,3,371949,1115847
+2023-05-24,BYD,Seal,Gauteng,EV,2,722460,1444920
+2023-04-23,Chery,Tiggo 7,Gauteng,Hybrid,2,458865,917730
+2023-02-24,Geely,Emgrand,Limpopo,Petrol,1,382487,382487
+2023-03-28,BAIC,Beijing X55,Western Cape,Petrol,1,432603,432603
+2024-03-18,BAIC,Beijing X55,Mpumalanga,EV,3,435106,1305318
+2023-09-21,Geely,Emgrand,Gauteng,Hybrid,1,369986,369986
+2023-07-01,BYD,Atto 3,KwaZulu-Natal,Hybrid,1,592175,592175
+2023-03-26,BYD,Seal,Gauteng,EV,3,696032,2088096
+2024-06-06,BYD,Dolphin,Mpumalanga,EV,3,522880,1568640
+2023-09-13,BYD,Atto 3,Western Cape,EV,2,613572,1227144
+2023-06-07,Chery,Tiggo 7,Mpumalanga,Petrol,1,447771,447771
+2023-07-28,Geely,Emgrand,Western Cape,Petrol,3,358529,1075587
+2024-03-17,BYD,Atto 3,KwaZulu-Natal,Hybrid,2,631693,1263386
+2023-12-22,GWM,Haval H6,Gauteng,Petrol,2,541268,1082536
+2023-12-08,Geely,Emgrand,KwaZulu-Natal,Hybrid,1,331622,331622
+2024-03-30,BYD,Dolphin,Gauteng,Hybrid,1,526828,526828
+2023-12-29,Chery,Tiggo 4,Western Cape,Petrol,2,396397,792794
+2023-08-15,BYD,Dolphin,KwaZulu-Natal,EV,3,504762,1514286
+2024-07-01,BAIC,Beijing X55,Western Cape,EV,2,401792,803584
+2024-04-26,Geely,Coolray,KwaZulu-Natal,Petrol,1,404058,404058
+2023-08-05,Chery,Tiggo 7,Gauteng,Petrol,1,467904,467904
+2023-04-18,Chery,Tiggo 7,Western Cape,Petrol,1,458145,458145
+2023-01-17,Chery,Tiggo 7,Gauteng,Petrol,1,499626,499626
+2023-03-22,BAIC,Beijing X55,Western Cape,Petrol,3,381341,1144023
+2023-09-25,Chery,Tiggo 7,KwaZulu-Natal,EV,1,485761,485761
+2023-01-16,BYD,Atto 3,Gauteng,Hybrid,2,607935,1215870
+2024-06-02,BAIC,Beijing X55,Gauteng,Petrol,3,424813,1274439
+2024-01-07,BYD,Atto 3,Western Cape,Hybrid,2,616062,1232124
+2023-07-07,GWM,Haval H6,Western Cape,Petrol,3,532375,1597125
+2023-12-30,Geely,Coolray,Eastern Cape,Petrol,3,400662,1201986
+2023-06-10,Chery,Tiggo 4,KwaZulu-Natal,Hybrid,2,367564,735128
+2024-02-18,GWM,Haval H6,Mpumalanga,Petrol,2,532393,1064786
+2023-02-08,BYD,Dolphin,Western Cape,EV,3,549346,1648038
+2024-01-12,BYD,Dolphin,Limpopo,EV,3,492984,1478952
+2023-01-03,GWM,Haval Jolion,Gauteng,Petrol,2,410816,821632
+2024-08-07,Geely,Emgrand,Gauteng,Petrol,1,370600,370600
+2024-01-15,BYD,Dolphin,KwaZulu-Natal,EV,3,525028,1575084
+2023-08-14,Geely,Emgrand,Mpumalanga,Petrol,1,359757,359757
+2023-08-31,BYD,Seal,Western Cape,Hybrid,1,718197,718197
+2023-09-16,Geely,Emgrand,Gauteng,Petrol,2,357376,714752
+2023-01-20,GWM,Haval Jolion,Gauteng,EV,3,446600,1339800
+2023-05-25,BAIC,Beijing X55,Gauteng,Petrol,2,405425,810850
+2023-12-23,BYD,Seal,Gauteng,EV,2,739720,1479440
+2023-11-28,BYD,Dolphin,Western Cape,EV,1,497602,497602
+2023-02-07,BYD,Seal,KwaZulu-Natal,Hybrid,3,705559,2116677
+2024-08-15,BYD,Dolphin,Gauteng,EV,1,489903,489903
+2023-02-09,BYD,Dolphin,Western Cape,EV,2,481591,963182
+2024-07-24,Chery,Tiggo 4,Eastern Cape,Petrol,1,379623,379623
+2023-12-22,GWM,Haval Jolion,Gauteng,Petrol,2,426292,852584
+2023-01-31,Chery,Tiggo 7,Gauteng,EV,2,479708,959416
+2023-03-23,GWM,Haval H6,Limpopo,Petrol,3,522534,1567602
+2023-04-23,GWM,Haval H6,Eastern Cape,Petrol,3,540461,1621383
+2023-11-22,Chery,Tiggo 8,Western Cape,Petrol,3,593852,1781556
+2023-08-10,BYD,Seal,KwaZulu-Natal,EV,3,741246,2223738
+2023-07-11,GWM,Haval H6,North West,Hybrid,3,487491,1462473
+2023-07-29,Chery,Tiggo 7,Eastern Cape,Petrol,3,450953,1352859
+2024-04-04,GWM,Tank 300,Free State,Hybrid,1,751427,751427
+2024-06-21,BYD,Seal,Limpopo,EV,2,707082,1414164
+2023-06-06,BYD,Atto 3,Northern Cape,EV,3,648878,1946634
+2024-01-17,BYD,Atto 3,Limpopo,Hybrid,1,632930,632930
+2024-03-28,BYD,Dolphin,Free State,EV,3,528901,1586703
+2023-06-12,BAIC,Beijing X55,Western Cape,EV,2,399982,799964
+2023-11-05,BYD,Dolphin,Eastern Cape,EV,2,501563,1003126
+2024-06-19,BYD,Seal,Mpumalanga,Hybrid,1,741788,741788
+2023-07-25,BAIC,Beijing X55,KwaZulu-Natal,Hybrid,2,448760,897520
+2024-05-15,Chery,Tiggo 7,Eastern Cape,Petrol,1,495455,495455
+2024-01-01,BYD,Seal,Northern Cape,EV,2,706589,1413178
+2023-04-12,BAIC,Beijing X55,Eastern Cape,Hybrid,1,421688,421688
+2023-02-15,GWM,Tank 300,Western Cape,Petrol,1,773408,773408
+2023-01-02,BYD,Atto 3,KwaZulu-Natal,Hybrid,2,602431,1204862
+2023-04-13,Geely,Coolray,Western Cape,Petrol,2,436985,873970
+2024-03-03,BYD,Seal,Gauteng,Hybrid,2,748577,1497154
+2024-01-05,BYD,Seal,Gauteng,EV,1,706015,706015
+2023-04-21,BAIC,Beijing X55,Free State,Petrol,2,405683,811366
+2023-01-22,GWM,Tank 300,KwaZulu-Natal,Petrol,2,741653,1483306
+2023-01-12,Geely,Coolray,Gauteng,Petrol,3,416877,1250631
+2023-11-05,BYD,Dolphin,Western Cape,EV,1,532579,532579
+2024-07-02,Chery,Tiggo 8,Gauteng,Petrol,2,546082,1092164
+2024-03-20,BAIC,Beijing X55,Free State,Hybrid,3,388946,1166838
+2023-01-24,BYD,Seal,Gauteng,Hybrid,1,739321,739321
+2024-02-24,Geely,Emgrand,Eastern Cape,Hybrid,2,369063,738126
+2023-10-22,BYD,Atto 3,Western Cape,EV,2,606017,1212034
+2024-06-03,BYD,Seal,Gauteng,EV,3,737056,2211168
+2023-10-20,Geely,Emgrand,Gauteng,Petrol,3,379153,1137459
+2023-03-25,GWM,Haval Jolion,Western Cape,Petrol,1,435046,435046
+2023-08-17,Chery,Tiggo 7,KwaZulu-Natal,Petrol,3,497649,1492947
+2023-09-27,BYD,Dolphin,Limpopo,EV,3,532233,1596699
+2023-10-03,BYD,Dolphin,Gauteng,Hybrid,1,522240,522240
+2023-07-23,Chery,Tiggo 4,Gauteng,Petrol,1,395946,395946
+2023-09-08,Geely,Coolray,Eastern Cape,Petrol,2,447278,894556
+2023-01-01,BYD,Atto 3,Northern Cape,Hybrid,1,580281,580281
+2023-01-12,BYD,Atto 3,Gauteng,Hybrid,2,644178,1288356
+2023-08-05,BYD,Dolphin,Western Cape,Hybrid,2,545661,1091322
+2024-03-03,Chery,Tiggo 4,KwaZulu-Natal,Petrol,2,366570,733140
+2024-01-10,Geely,Coolray,Gauteng,Petrol,2,381969,763938
+2024-05-09,BYD,Dolphin,Gauteng,Hybrid,1,493669,493669
+2023-05-25,BYD,Atto 3,KwaZulu-Natal,EV,2,635409,1270818
+2023-01-01,GWM,Tank 300,KwaZulu-Natal,Petrol,1,772823,772823
+2024-07-28,BYD,Atto 3,Western Cape,Hybrid,2,588125,1176250
+2024-08-11,BAIC,Beijing X55,Western Cape,EV,1,407208,407208
+2024-04-26,BYD,Seal,Mpumalanga,EV,2,684114,1368228
+2024-03-30,GWM,Haval Jolion,Gauteng,EV,2,403712,807424
+2024-04-17,BYD,Seal,KwaZulu-Natal,EV,1,715643,715643
+2023-01-03,Chery,Tiggo 4,Western Cape,Petrol,2,420233,840466
+2023-01-12,Chery,Tiggo 7,Western Cape,Petrol,1,431177,431177
+2024-05-12,BYD,Dolphin,Gauteng,EV,2,506966,1013932
+2023-04-27,Chery,Tiggo 8,Gauteng,Petrol,3,599967,1799901
+2023-05-21,GWM,Haval Jolion,KwaZulu-Natal,Petrol,1,445379,445379
+2023-06-05,BYD,Atto 3,Gauteng,EV,1,616378,616378
+2024-08-11,Geely,Emgrand,Gauteng,Hybrid,1,342289,342289
+2023-02-08,Geely,Coolray,Western Cape,Petrol,2,424139,848278
+2024-01-20,Geely,Coolray,Gauteng,Hybrid,2,386441,772882
+2023-10-04,Geely,Coolray,KwaZulu-Natal,EV,2,445429,890858
+2023-06-03,GWM,Haval Jolion,Limpopo,Petrol,1,431401,431401
+2023-05-26,BYD,Atto 3,Eastern Cape,EV,2,611910,1223820
+2024-04-27,GWM,Haval H6,Western Cape,Petrol,1,544174,544174
+2024-02-23,GWM,Haval Jolion,Gauteng,Petrol,3,468388,1405164
+2023-11-16,Chery,Tiggo 8,Gauteng,Petrol,2,587784,1175568
+2023-10-07,BYD,Dolphin,KwaZulu-Natal,EV,3,535754,1607262
+2023-02-05,BYD,Seal,KwaZulu-Natal,EV,2,719532,1439064
+2024-07-14,BYD,Dolphin,KwaZulu-Natal,EV,3,548008,1644024
+2023-03-08,GWM,Haval Jolion,Gauteng,Petrol,2,456549,913098
+2023-06-21,Geely,Coolray,Western Cape,Petrol,3,385249,1155747
+2024-03-17,Chery,Tiggo 4,Northern Cape,Petrol,2,413363,826726
+2023-07-27,BAIC,Beijing X55,Gauteng,Hybrid,3,405592,1216776
+2024-06-25,Geely,Emgrand,Western Cape,Hybrid,3,359328,1077984
+2023-10-13,BYD,Seal,Gauteng,EV,1,742711,742711
+2024-04-04,Geely,Emgrand,Gauteng,Hybrid,1,334895,334895
+2024-07-31,GWM,Haval H6,Gauteng,Petrol,2,485782,971564
+2023-06-29,Geely,Emgrand,North West,Petrol,3,385114,1155342
+2023-12-08,BYD,Atto 3,KwaZulu-Natal,EV,3,645450,1936350
+2023-06-07,Chery,Tiggo 7,Western Cape,Petrol,1,455169,455169
+2023-03-14,GWM,Haval H6,Eastern Cape,Petrol,2,511750,1023500
+2024-06-20,BYD,Seal,Gauteng,Hybrid,2,735249,1470498
+2023-04-20,Chery,Tiggo 4,Mpumalanga,EV,1,365901,365901
+2023-01-25,GWM,Haval H6,Gauteng,Petrol,2,531112,1062224
+2024-08-02,Chery,Tiggo 7,Gauteng,Petrol,3,446920,1340760
+2024-01-25,BYD,Dolphin,North West,EV,3,532188,1596564
+2024-04-11,BYD,Seal,KwaZulu-Natal,Hybrid,1,719922,719922
+2023-02-25,BYD,Dolphin,Gauteng,EV,3,526332,1578996
+2023-09-20,BYD,Seal,Gauteng,Hybrid,3,708141,2124423
+2023-12-25,Chery,Tiggo 4,Western Cape,EV,1,383312,383312
+2024-07-27,BYD,Dolphin,KwaZulu-Natal,EV,1,495422,495422
+2024-08-20,Chery,Tiggo 8,Western Cape,Petrol,1,561174,561174
+2024-08-13,BAIC,Beijing X55,Gauteng,Petrol,2,386548,773096
+2023-08-30,Chery,Tiggo 8,Gauteng,Petrol,1,590428,590428
+2024-05-11,Chery,Tiggo 4,Limpopo,EV,1,360163,360163
+2024-05-24,Chery,Tiggo 8,Western Cape,Petrol,2,559300,1118600
+2023-01-21,BYD,Atto 3,Western Cape,EV,2,599877,1199754
+2024-02-29,BAIC,Beijing X55,Gauteng,Petrol,1,383191,383191
+2023-10-11,Chery,Tiggo 4,Gauteng,EV,1,388671,388671
+2023-06-22,Chery,Tiggo 7,Western Cape,Petrol,3,453472,1360416
+2024-03-10,BYD,Dolphin,Western Cape,Hybrid,1,543530,543530
+2024-01-01,BYD,Dolphin,Free State,Hybrid,3,524857,1574571
+2024-05-05,BAIC,Beijing X55,Free State,EV,3,444027,1332081
+2024-07-03,Geely,Coolray,KwaZulu-Natal,Hybrid,2,385439,770878
+2024-04-07,BYD,Dolphin,Gauteng,Hybrid,2,515144,1030288
+2024-01-05,BYD,Dolphin,Gauteng,Hybrid,2,541558,1083116
+2024-06-06,BYD,Seal,Free State,EV,2,749519,1499038
+2023-05-04,BYD,Dolphin,North West,EV,2,518714,1037428
+2023-04-23,Geely,Emgrand,Free State,Petrol,3,376804,1130412
+2024-06-13,Chery,Tiggo 8,KwaZulu-Natal,Petrol,1,567643,567643
+2023-08-24,Chery,Tiggo 7,Western Cape,Hybrid,2,453911,907822
+2024-06-24,BYD,Atto 3,Eastern Cape,EV,2,628908,1257816

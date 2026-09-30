@@ -1,0 +1,33 @@
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+def load_data(path):
+    df = pd.read_csv(path)
+    df['Date'] = pd.to_datetime(df['Date'])
+    return df
+
+def brand_performance(df):
+    return df.groupby('Brand').agg(
+        Units=('Units','sum'), 
+        Revenue=('Revenue_ZAR','sum')
+    ).sort_values('Revenue', ascending=False)
+
+def plot_brand_revenue(df):
+    data = brand_performance(df)
+    plt.figure(figsize=(8,4))
+    sns.barplot(x=data.index, y=data['Revenue'])
+    plt.title('Revenue by Brand - SA')
+    plt.xticks(rotation=30)
+    plt.tight_layout()
+    plt.show()
+
+def plot_fuel_type(df):
+    plt.figure(figsize=(6,4))
+    sns.countplot(data=df, x='Fuel_Type', order=df['Fuel_Type'].value_counts().index)
+    plt.title('Sales by Fuel Type')
+    plt.tight_layout()
+    plt.show()
+
+def province_heatmap(df):
+    return pd.crosstab(df['Province'], df['Brand'], values=df['Units'], aggfunc='sum').fillna(0)
